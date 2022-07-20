@@ -1,2 +1,2 @@
-# Fundamentos-Javascript
-Ejercicios Básicos para ejercitar fundamentos de Lenguaje Javascript
+l# Fundamentos-Javascript
+Ejercicios Básicos para ejercitar fundamentos de Lenguaje Javascript.
